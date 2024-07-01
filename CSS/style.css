@@ -1,5 +1,5 @@
 :root {
-  --uiclr:#6E57E0;
+  --uiclr:#4169e1;
   --white: #fbfbfd;
   --black: #040c0e;
   --light-black: rgb(53, 50, 50);
@@ -214,8 +214,8 @@ nav{
     background-color: #5e43e4;
 }
 .heading .button{
-    margin-top:6%;
-}
+        margin-top:6%;
+    }
 .socials{
     font-size: 1.5rem;
     height: 10%;
@@ -743,8 +743,8 @@ flex-direction: column;
     font-weight:500;
 }
 .right-side{
-    padding: 4.8% 1%;
-    width: 58%;
+    padding: 4.8% 8%;
+    width: 60%;
 }
 .input-container form{
     display: flex;

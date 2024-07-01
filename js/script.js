@@ -29,7 +29,7 @@
 
         var typingEffect = new Typed(".multiText", {
 
-            strings: ["B.Tech Student","Web Developer","Freelancer","Tech Enthusiast","UI<span > / </span>UX Designer"],
+            strings: ["B.Tech Student","Student","Mural Artist","Programmer"],
 
             loop: true,
 
